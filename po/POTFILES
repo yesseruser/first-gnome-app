@@ -1,0 +1,4 @@
+data/io.github.yesseruser.FirstApp.desktop.in
+data/io.github.yesseruser.FirstApp.metainfo.xml.in
+data/io.github.yesseruser.FirstApp.gschema.xml
+src/window.ui

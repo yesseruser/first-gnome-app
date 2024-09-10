@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=firstapp
+Exec=firstapp
+Icon=io.github.yesseruser.FirstApp
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
