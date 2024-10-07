@@ -20,11 +20,8 @@
           </object>
         </child>
         <property name="content">
-          <object class="GtkLabel" id="label">
-            <property name="label">Hello, World!</property>
-            <style>
-              <class name="title-1"/>
-            </style>
+          <object class="button">
+            <property name="label">Say Hello</property>
           </object>
         </property>
       </object>
